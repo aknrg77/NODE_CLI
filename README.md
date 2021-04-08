@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://jwt.io/img/logo-asset.svg" alt="Node.js"/>
+  <img src="https://github.com/aknrg77/NODE_CLI/blob/master/assets/node.png" alt="Node.js"/>
 </p>
 
 # Node Cli (Command Line Interface)
@@ -13,7 +13,7 @@
 
 ### Basic Commands
 <p align="center">
-  <img src="https://jwt.io/img/logo-asset.svg" alt="Node.js"/>
+  <img src="https://github.com/aknrg77/NODE_CLI/blob/master/assets/help.png" alt="Node.js"/>
 </p>
 
 ### Documentations
